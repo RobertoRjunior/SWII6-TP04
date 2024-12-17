@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.AssemblyInfo.cs
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Trabalho-Pratico-04-SWII6-main\TP04\TP04\obj\Debug\net7.0\TP04.RazorAssemblyInfo.cs
